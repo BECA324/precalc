@@ -81,4 +81,6 @@ html tags for image size
 
 [link to Pandas sandbox notebook](sandbox.ijynb)
 
-[link to manual html export of Pandas Notes notebook](Pandas_Notes_manual_export)
+![html export of graphing slides notebook-internet access](https://math.huson.com/templates/stats-slide-deck.slides.html)
+
+![export of graphing slides notebook-repo access](stats-slide-deck.slides.html)
