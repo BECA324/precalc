@@ -1,0 +1,14 @@
+import os
+import sys
+
+import pandas as pd
+#pd.set_option('display.max_colwidth', None) # Wrap text in cells to show all of large fields
+#pd.options.display.float_format = '{:.3f}'.format # 3 decimal places
+import numpy as np
+#import plotly_express as px
+#import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+os.getcwd() #listdir(), mkdir(), chdir()
+#pd.show_versions(as_json=False)
