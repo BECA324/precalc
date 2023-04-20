@@ -44,8 +44,9 @@ LaTeX markdown is not being rendered by GitHub Pages' automatic process. A versi
 
 The Pythagorean formula and distance formula
 
-$$a^2+b^2=c^2 \\[0.5cm]
-d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$$
+$$a^2+b^2=c^2$
+
+$d=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}$
 
 ## Geometry notation
 
