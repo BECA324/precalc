@@ -65,7 +65,7 @@ $\overline{RS} \cong \overline{ST}$
 
 ![Rainfall plot](https://raw.githubusercontent.com/chrishuson/course-files/master/Geom2023/graphics/rainfall.png)
 
-![Alt Dr. Huson](./images/Chris_Huson.jpg)
+![Alt Dr. Huson](Chris_Huson.jpg)
 
 html tags for image size
 
