@@ -70,7 +70,7 @@ $\overline{RS} \cong \overline{ST}$
 html tags for image size
 
 <center>
-<img src="./images/Chris_Huson.jpg" width="100" height="120">
+<img src="Chris_Huson.jpg" width="100" height="120">
 </center>
 
 ## Slides
@@ -79,6 +79,6 @@ html tags for image size
 
 ## Jupyter Notebooks
 
-[link to Pandas Notes notebook](Pandas_Notes_Oct18)
+[link to Pandas sandbox notebook](sandbox.ijynb)
 
 [link to manual html export of Pandas Notes notebook](Pandas_Notes_manual_export)
